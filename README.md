@@ -1,2 +1,5 @@
 # hello-world
-Just for test
+
+Hi humans!
+
+I am Jordane. I like coding.
